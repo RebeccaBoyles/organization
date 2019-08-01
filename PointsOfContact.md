@@ -54,7 +54,7 @@ points of contact.
 
 | Role                   | Name           | Email Address             | GitHub username |
 | ---------------------- | -------------- | ------------------------- | --------------- |
-| Principal Investigator | Rebecca Boyles | <beckyboyles1@gmail.com>  | RebeccaBoyles  |
+| Principal Investigator | Rebecca Boyles | <rboyles1@rti.org>  | RebeccaBoyles  |
 | Project Manager | Marcie Rathbun | <mrathbun@rti.org> | mrathbun-rti |
 
 
